@@ -1,9 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.59f16f6e.css",
-    "main.js": "/portfolio/static/js/main.0e089d68.js",
+    "main.js": "/portfolio/static/js/main.a184ccf6.js",
     "static/media/carpoint.png": "/portfolio/static/media/carpoint.de20f0a1e4d9b24bea2a.png",
-    "static/media/mci.png": "/portfolio/static/media/mci.d1bcfeeb3491ba3c1a1a.png",
     "static/media/cochl.png": "/portfolio/static/media/cochl.8adfb33a9306fbfd12cf.png",
     "static/media/remote.png": "/portfolio/static/media/remote.750c489017040402e98a.png",
     "static/media/ET.png": "/portfolio/static/media/ET.c6aada0cc1c63fec0b70.png",
@@ -11,15 +10,14 @@
     "static/media/IEUM.png": "/portfolio/static/media/IEUM.abe2d0d2e5238a4b8aa3.png",
     "static/media/teachyou.png": "/portfolio/static/media/teachyou.c1d433f9023f0736ff4d.png",
     "static/media/youtube.png": "/portfolio/static/media/youtube.903fb1a36a9ac3153d42.png",
-    "static/media/books.png": "/portfolio/static/media/books.2027b40ae8c292dc6174.png",
     "static/media/multi.png": "/portfolio/static/media/multi.8bf92cf3c9b8f6090ce9.png",
     "static/media/h2o.png": "/portfolio/static/media/h2o.d8ce35422f5c9c477b63.png",
     "index.html": "/portfolio/index.html",
     "main.59f16f6e.css.map": "/portfolio/static/css/main.59f16f6e.css.map",
-    "main.0e089d68.js.map": "/portfolio/static/js/main.0e089d68.js.map"
+    "main.a184ccf6.js.map": "/portfolio/static/js/main.a184ccf6.js.map"
   },
   "entrypoints": [
     "static/css/main.59f16f6e.css",
-    "static/js/main.0e089d68.js"
+    "static/js/main.a184ccf6.js"
   ]
 }
